@@ -32,7 +32,7 @@ class Member {
 public class Main() {
     public static void main(String[] args) {
     
-        Member minsuk = Member.builder()
+        Member handong = Member.builder()
                 .name("양한동")
                 .job("Software engineer🧑🏽‍💻")
                 .developmentFields(new String[]{"Back-end🔭"})
@@ -43,10 +43,10 @@ public class Main() {
                 .interests(new String[]{"정리", "실험", "습관", "마찰력"})
                 .build();
 
-        introduce(minsuk);
+        introduce(handong);
     }
 }
 
 ```
 
--->
+

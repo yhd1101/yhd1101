@@ -1,10 +1,12 @@
 ## Hi there 👋
 
- **마찰력 없는 인앱경험**을 발견하면 정말 좋아합니다.
- 그런 제품을 만들기 위해, 일을 할 때 **본인만의 해석과 철학**을 팀원과 먼저 **공유**합니다.
- 초기 제안 보다 **더 나은 해결 방법을 제안**합니다.
- 제안이 실행 단계로 전환됐을 때 **지치지 않고 완수**하는 사람입니다.
- 문제를 해결해나가는 **집요함**이 있습니다.
+🚀 "깊이 파고들고, 함께 성장하는 개발자"
+나는 궁금한 게 생기면 끝까지 파고드는 사람입니다.
+"왜?"라는 질문을 멈추지 않으며, 단순한 해결책이 아닌 더 나은 방향을 찾는 과정을 즐깁니다.
+
+기술은 혼자서만 잘한다고 완성되지 않는다고 생각합니다.
+좋은 제품을 만들기 위해서는 팀원들과의 소통이 필수적이며,
+서로의 아이디어를 공유하고 조율하는 과정을 통해 최선의 해결책을 찾아가는 것을 중요하게 생각합니다.
  
 
 
@@ -37,10 +39,11 @@ public class Main() {
                 .job("Software engineer🧑🏽‍💻")
                 .developmentFields(new String[]{"Back-end🔭"})
                 .languages(new String[]{"Java☕", "TypeScript"})
-                .backendSkills(new String[]{"Spring🌱", "Dropwizard", "NestJS🔥", "JPA🔧", "MyBatis🦤", "Junit5️⃣", "Mockito🍸", "Gradle🐘", "OpenSearch🔹"})
+                .backendSkills(new String[]{"Spring🌱","NestJS🔥", "JPA🔧", "TypeOrm🔍","MyBatis🦤", "Junit5️⃣","Gradle🐘"})
                 .devOpsSkills(new String[]{"Ubuntu🐺", "Github Actions♾️", "MariaDB🦭", "Docker🐋", "AWS EC2☁️", "S3", "CodeDeploy, PostgreSQL🐘"})
                 .collaborationTools(new String[]{"Slack📑", "Notion","Git", "Intellij"})
-                .interests(new String[]{"정리", "실험", "습관", "마찰력"})
+                .interests(new String[]{"문제 해결","대용량 데이터", "클린 코드", "백엔드 아키텍처", "성장", "기술 공유"})
+
                 .build();
 
         introduce(handong);
